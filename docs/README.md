@@ -1,7 +1,9 @@
 
 # SABE-YOLO: Structure-Aware and Boundary-Enhanced YOLO for Weld Seam Instance Segmentation
 
-This repository contains the official implementation of **SABE-YOLO**, a novel instance segmentation model designed for accurate and efficient weld seam segmentation in complex industrial environments. The model integrates **Structure-Aware Fusion Module (SAFM)** and **Boundary-Enhanced Aggregation Module (C2f-BEAM)**, and introduces an **Inner-MPDIoU loss** to better handle elongated structures and fuzzy boundaries.
+This repository contains the official implementation of **SABE-YOLO**, a novel instance segmentation model designed for accurate and efficient weld seam segmentation in complex industrial environments. The model integrates **Structure-Aware Fusion Module (SAFM)** and **Boundary-Enhanced Aggregation Module (C2f-BEAM)**, and introduces an **Inner-MPDIoU loss** to better handle elongated structures and fuzzy boundaries. This project is built upon the Ultralytics YOLOv8 framework. We thank the Ultralytics team for their excellent work.
+
+🔗 Ultralytics GitHub: https://github.com/ultralytics/ultralytics
 
 ---
 
